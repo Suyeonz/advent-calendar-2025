@@ -3,7 +3,7 @@ const messageMap = {
   1: "🦄 Hallo!! I hope you're enjoying your December with my little advent calendar 📅 And let’s guess what’s gonna pop up next before you click the date 💖",
   2: '🐧 Here is one of my favorite penguin videos! I will <a href="https://youtu.be/Z7PlUGbsXlQ?si=x2_c58q_LsMFTogj" target="_blank">share</a> it with you 📼(Tap the color)',
   3: '🐱 A song for you 🎶<br>▶️ <a href="https://www.tiktok.com/@thekiffness/video/7375090152751860998?is_from_webapp=1&sender_device=pc&web_id=7578458354767742482" target="_blank">PLAY</a>',
-  4: '🐰 You definitely know I am obsessed with bunnies! What is your <span class="imgTrigger" data-img="img/puupuu.jpg">favorite</span> animal?',
+  4: '🐰 You definitely know I am obsessed with bunnies! What is your <span class="imgTrigger" data-img="img/puupuu.JPG">favorite</span> animal?',
   5: '🪴 Do you know what the iconic Christmas plant is? It is the poinsettia! 🎅 <span class="imgTrigger" data-img="img/poinsettia.jpg">Here’s what it looks like</span> ✨',
   6: 'If you want your life to feel cuter, you seriously need <span class="imgTrigger" data-img="img/mole.jpeg">Sylvanian Families</span> in it!',
   7: '🎦 <span class="videoTrigger" data-video="video/mars.mp4">PLAY</span><br>Happy Mars Day! ☄️ I just made this day up I’ll always support your dream 🚀 shoot for Mars!',
