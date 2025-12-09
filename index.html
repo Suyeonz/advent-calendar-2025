@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>Suyeon's Advent Calendar</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="page">
+    <!-- 상단 제목 이미지 자리 -->
+    <header class="header">
+      <!-- 나중에 네가 만든 제목 이미지를 여기 src에 넣으면 돼 -->
+      <img
+        src="img/title.png"
+        alt="Advent Calendar Title"
+        class="title-image"
+      />
+    </header>
+
+    <!-- 그리드 화면 (처음에 보이는 화면) -->
+    <main id="gridView" class="view">
+      <div id="grid" class="grid"></div>
+    </main>
+
+  <!-- ⭐ 팝업 모달 추가된 부분 ⭐ -->
+  <div id="popup" class="popup hidden">
+    <div class="popup-inner">
+      <button class="popup-close" id="popupClose">×</button>
+      <img id="popupImage" class="popup-img" alt="">
+      <p id="popupText" class="popup-text"></p>
+    </div>
+  </div>
+  <!-- ⭐ 팝업 끝 ⭐ -->
+
+  <script src="script.js"></script>
+</body>
+</html>
